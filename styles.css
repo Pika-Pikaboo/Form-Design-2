@@ -89,6 +89,7 @@ textarea {
 	border-bottom-right-radius: 20px;
 	background-color: gainsboro;
 	font-size: 1.15rem;
+	resize: vertical;
 }
 
 button {
